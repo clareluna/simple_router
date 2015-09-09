@@ -1,0 +1,19 @@
+{
+  "name": "sea-d49-router",
+  "version": "0.1.0",
+  "description": "a simple http router",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node-modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clareluna/simple_router.git"
+  },
+  "author": "Clare Monahan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clareluna/simple_router/issues"
+  },
+  "homepage": "https://github.com/clareluna/simple_router#readme"
+}
